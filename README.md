@@ -40,3 +40,13 @@ Customers were scored on each dimension and combined into an overall **RFM score
 - Customers with high RFM scores represent loyal and high-value customers who drive a significant portion of revenue.
 - Low-recency or low-frequency customers indicate churn risk and can be targeted with re-engagement campaigns.
 - RFM segmentation enables data-driven marketing, retention strategies, and personalized promotions.
+
+---
+
+### 🛠️ Tools & Skills Demonstrated
+- Python (pandas, numpy, matplotlib)
+- Data cleaning & preprocessing
+- Time-series analysis
+- Customer segmentation (RFM analysis)
+- Exploratory data analysis (EDA)
+- Business insight generation
