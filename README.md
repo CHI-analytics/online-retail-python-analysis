@@ -22,3 +22,21 @@ This analysis identifies the countries contributing the highest revenue to the b
 - The United Kingdom generates the highest share of total revenue, significantly outperforming other countries.
 - A small number of countries contribute the majority of sales, indicating strong geographic concentration.
 - This suggests opportunities for targeted international expansion or deeper market penetration outside the UK.
+
+---
+
+### 🧠 Customer Segmentation using RFM Analysis
+
+To better understand customer behavior and identify high-value customers, an **RFM (Recency, Frequency, Monetary)** analysis was performed.
+
+**RFM Metrics Explained:**
+- **Recency (R):** How recently a customer made a purchase  
+- **Frequency (F):** How often a customer makes purchases  
+- **Monetary (M):** How much revenue a customer generates  
+
+Customers were scored on each dimension and combined into an overall **RFM score** to segment them into actionable groups.
+
+**Key Insights:**
+- Customers with high RFM scores represent loyal and high-value customers who drive a significant portion of revenue.
+- Low-recency or low-frequency customers indicate churn risk and can be targeted with re-engagement campaigns.
+- RFM segmentation enables data-driven marketing, retention strategies, and personalized promotions.
